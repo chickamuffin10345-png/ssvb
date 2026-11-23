@@ -1,0 +1,51 @@
+[15:58:17] [INIT] KubeJS 2001.6.5-build.26; MC 2001 forge
+[15:58:17] [INIT] Loaded plugins:
+[15:58:17] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
+[15:58:17] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgeClientPlugin
+[15:58:17] [INIT] - net.zhaiji.kubejscurios.kubejs.KubeJSCuriosPlugin
+[15:58:17] [INIT] - io.github.mortuusars.exposure.integration.kubejs.ExposureJSPlugin
+[15:58:17] [INIT] - net.mehvahdjukaar.sawmill.integration.KubeJsPlugin
+[15:58:17] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbquests.kubejs.KubeJSIntegration
+[15:58:17] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbchunks.kubejs.FTBChunksKubeJSPlugin
+[15:58:17] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbteams.kubejs.FTBTeamsKubeJSPlugin
+[15:58:17] [INIT] - com.sunekaer.sdrp.integration.kubejs.SDRPKubeJSIntegration
+[15:58:17] [INIT] - org.mesdag.geckojs.GeckoJSPlugin
+[15:58:17] [INIT] - pie.ilikepiefoo.AdditionsPlugin
+[15:58:17] [INIT] - pie.ilikepiefoo.compat.jei.JEIKubeJSPlugin
+[15:58:17] [INIT] - cn.breezeth.kaleidoscope_grilling.kubejs.GrillingKubeJSPlugin
+[15:58:17] [INIT] - com.github.ysbbbbbb.kaleidoscopecookery.compat.kubejs.ModKubeJSPlugin
+[15:58:17] [INIT] - net.liopyu.entityjs.EntityJSPlugin
+[15:58:17] [INIT] - com.prunoideae.powerfuljs.forge.PowerfulJSPluginForge
+[15:58:17] [INIT] - com.almostreliable.morejs.Plugin
+[15:58:17] [INIT] - com.oierbravo.createmechanicalextruder.compat.kubejs.KubeJSCreateMechanicalExtruderPlugin
+[15:58:17] [INIT] - com.almostreliable.lootjs.kube.LootJSPlugin
+[15:58:17] [INIT] - com.almostreliable.ponderjs.KubePlugin
+[15:58:17] [INFO] Loaded script client_scripts:addJeiItems.js in 0.001 s
+[15:58:17] [INFO] Loaded script client_scripts:blockEntityJei.js in 0.002 s
+[15:58:17] [INFO] Loaded script client_scripts:extractinatorJEI.js in 0.0 s
+[15:58:17] [INFO] Loaded script client_scripts:hideJEIItems.js in 0.001 s
+[15:58:17] [INFO] Loaded script client_scripts:husbandryJei.js in 0.001 s
+[15:58:17] [INFO] jadeClient.js#1: Loaded Java class 'net.minecraft.world.level.block.Block'
+[15:58:17] [INFO] jadeClient.js#2: Loaded Java class 'net.minecraft.world.level.block.state.properties.IntegerProperty'
+[15:58:17] [INFO] jadeClient.js#5: Loaded Java class 'net.minecraft.world.level.block.state.properties.BooleanProperty'
+[15:58:17] [INFO] jadeClient.js#8: Loaded Java class 'net.minecraft.world.level.block.CropBlock'
+[15:58:17] [INFO] jadeClient.js#11: Loaded Java class 'sereneseasons.init.ModFertility'
+[15:58:17] [INFO] jadeClient.js#12: Loaded Java class 'snownee.jade.addon.vanilla.CropProgressProvider'
+[15:58:17] [INFO] jadeClient.js#13: Loaded Java class 'cool.bot.dewdropfarmland.Config'
+[15:58:17] [INFO] jadeClient.js#14: Loaded Java class 'net.minecraft.world.phys.Vec2'
+[15:58:17] [INFO] Loaded script client_scripts:jadeClient.js in 0.017 s
+[15:58:17] [INFO] Loaded script client_scripts:jeiCustomization.js in 0.0 s
+[15:58:17] [INFO] Loaded script client_scripts:lootJEI.js in 0.0 s
+[15:58:17] [INFO] Loaded script client_scripts:ponders/cooking_brewing/bakerStation.js in 0.0 s
+[15:58:17] [INFO] Loaded script client_scripts:ponders/cooking_brewing/brewingstation.js in 0.001 s
+[15:58:17] [INFO] Loaded script client_scripts:ponders/cooking_brewing/grapevinePot.js in 0.001 s
+[15:58:17] [INFO] Loaded script client_scripts:ponders/ponderTags.js in 0.0 s
+[15:58:17] [INFO] seasonSync.js#1: Loaded Java class 'sereneseasons.init.ModConfig'
+[15:58:17] [INFO] Loaded script client_scripts:seasonSync.js in 0.0 s
+[15:58:17] [INFO] Loaded script client_scripts:tooltips/addAdvancedTooltips.js in 0.002 s
+[15:58:17] [INFO] Loaded script client_scripts:tooltips/addFishTooltips.js in 0.0 s
+[15:58:17] [INFO] Loaded script client_scripts:tooltips/addPriceTooltips.js in 0.002 s
+[15:58:17] [INFO] Loaded script client_scripts:tooltips/addTooltips.js in 0.005 s
+[15:58:17] [INFO] Loaded script client_scripts:villagerJEI.js in 0.0 s
+[15:58:17] [INFO] Loaded 18/18 KubeJS client scripts in 0.166 s with 0 errors and 0 warnings
+[15:58:35] [INFO] Client resource reload complete!

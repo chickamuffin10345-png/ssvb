@@ -1,0 +1,358 @@
+[15:59:24] [INIT] KubeJS 2001.6.5-build.26; MC 2001 forge
+[15:59:24] [INIT] Loaded plugins:
+[15:59:24] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
+[15:59:24] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgeClientPlugin
+[15:59:24] [INIT] - net.zhaiji.kubejscurios.kubejs.KubeJSCuriosPlugin
+[15:59:24] [INIT] - io.github.mortuusars.exposure.integration.kubejs.ExposureJSPlugin
+[15:59:24] [INIT] - net.mehvahdjukaar.sawmill.integration.KubeJsPlugin
+[15:59:24] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbquests.kubejs.KubeJSIntegration
+[15:59:24] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbchunks.kubejs.FTBChunksKubeJSPlugin
+[15:59:24] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbteams.kubejs.FTBTeamsKubeJSPlugin
+[15:59:24] [INIT] - com.sunekaer.sdrp.integration.kubejs.SDRPKubeJSIntegration
+[15:59:24] [INIT] - org.mesdag.geckojs.GeckoJSPlugin
+[15:59:24] [INIT] - pie.ilikepiefoo.AdditionsPlugin
+[15:59:24] [INIT] - pie.ilikepiefoo.compat.jei.JEIKubeJSPlugin
+[15:59:24] [INIT] - cn.breezeth.kaleidoscope_grilling.kubejs.GrillingKubeJSPlugin
+[15:59:24] [INIT] - com.github.ysbbbbbb.kaleidoscopecookery.compat.kubejs.ModKubeJSPlugin
+[15:59:24] [INIT] - net.liopyu.entityjs.EntityJSPlugin
+[15:59:24] [INIT] - com.prunoideae.powerfuljs.forge.PowerfulJSPluginForge
+[15:59:24] [INIT] - com.almostreliable.morejs.Plugin
+[15:59:24] [INIT] - com.oierbravo.createmechanicalextruder.compat.kubejs.KubeJSCreateMechanicalExtruderPlugin
+[15:59:24] [INIT] - com.almostreliable.lootjs.kube.LootJSPlugin
+[15:59:24] [INIT] - com.almostreliable.ponderjs.KubePlugin
+[15:59:25] [INFO] addCommandAttributesOnRespawn.js#1: [SOCIETY] addCommandAttributesOnRespawn.js loaded
+[15:59:25] [INFO] Loaded script server_scripts:addCommandAttributesOnRespawn.js in 0.0 s
+[15:59:25] [INFO] blockEvents/addBonemeal.js#1: [SOCIETY] addBonemeal.js loaded
+[15:59:25] [INFO] Loaded script server_scripts:blockEvents/addBonemeal.js in 0.0 s
+[15:59:25] [INFO] blockEvents/addExtractinatingRecipes.js#1: [SOCIETY] addExtractinatingRecipes.js loaded
+[15:59:25] [INFO] Loaded script server_scripts:blockEvents/addExtractinatingRecipes.js in 0.0 s
+[15:59:25] [INFO] blockEvents/bankerBroken.js#1: [SOCIETY] bankerBroken.js loaded
+[15:59:25] [INFO] Loaded script server_scripts:blockEvents/bankerBroken.js in 0.0 s
+[15:59:25] [INFO] blockEvents/berryBushBroken.js#1: [SOCIETY] berryBushBroken.js loaded
+[15:59:25] [INFO] Loaded script server_scripts:blockEvents/berryBushBroken.js in 0.0 s
+[15:59:25] [INFO] blockEvents/blueprintsBlock.js#1: [SOCIETY] blueprintsBlock.js loaded
+[15:59:25] [INFO] Loaded script server_scripts:blockEvents/blueprintsBlock.js in 0.0 s
+[15:59:25] [INFO] blockEvents/brainDamageBroken.js#1: [SOCIETY] brainDamageBroken.js loaded
+[15:59:25] [INFO] Loaded script server_scripts:blockEvents/brainDamageBroken.js in 0.0 s
+[15:59:25] [INFO] blockEvents/cancelTrophy.js#1: [SOCIETY] cancelTrophy.js loaded
+[15:59:25] [INFO] Loaded script server_scripts:blockEvents/cancelTrophy.js in 0.0 s
+[15:59:25] [INFO] Loaded script server_scripts:blockEvents/carpet.js in 0.0 s
+[15:59:25] [INFO] blockEvents/checkArtisanMachines.js#1: [SOCIETY] checkArtisanMachines.js loaded
+[15:59:25] [INFO] Loaded script server_scripts:blockEvents/checkArtisanMachines.js in 0.002 s
+[15:59:25] [INFO] blockEvents/checkAttributes.js#1: [SOCIETY] checkAttributes.js loaded
+[15:59:25] [INFO] Loaded script server_scripts:blockEvents/checkAttributes.js in 0.0 s
+[15:59:25] [INFO] blockEvents/checkCustomManaBlock.js#1: [SOCIETY] checkArtisanMachines.js loaded
+[15:59:25] [INFO] Loaded script server_scripts:blockEvents/checkCustomManaBlock.js in 0.001 s
+[15:59:25] [INFO] blockEvents/checkFishPond.js#1: [SOCIETY] checkFishPond.js loaded
+[15:59:25] [INFO] Loaded script server_scripts:blockEvents/checkFishPond.js in 0.001 s
+[15:59:25] [INFO] blockEvents/checkTapper.js#1: [SOCIETY] checkTapper.js loaded
+[15:59:25] [INFO] Loaded script server_scripts:blockEvents/checkTapper.js in 0.0 s
+[15:59:25] [INFO] blockEvents/compactingDrawerExploit.js#1: [SOCIETY] compactingDrawerExploit.js loaded
+[15:59:25] [INFO] Loaded script server_scripts:blockEvents/compactingDrawerExploit.js in 0.0 s
+[15:59:25] [INFO] blockEvents/customBlockEntityBroken.js#1: [SOCIETY] customBlockEntityBroken.js loaded
+[15:59:25] [INFO] Loaded script server_scripts:blockEvents/customBlockEntityBroken.js in 0.0 s
+[15:59:25] [INFO] Loaded script server_scripts:blockEvents/disableBonemeal.js in 0.0 s
+[15:59:25] [INFO] blockEvents/disableDispenser.js#1: [SOCIETY] disableDispenser.js loaded
+[15:59:25] [INFO] blockEvents/disableDispenser.js#3: Loaded Java class 'net.minecraft.world.level.block.DispenserBlock'
+[15:59:25] [INFO] Loaded script server_scripts:blockEvents/disableDispenser.js in 0.005 s
+[15:59:25] [INFO] blockEvents/disableHoeRichSoil.js#1: [SOCIETY] disableHoeRichSoil.js loaded
+[15:59:25] [INFO] Loaded script server_scripts:blockEvents/disableHoeRichSoil.js in 0.0 s
+[15:59:25] [INFO] blockEvents/disableQuarkMysticalFlowers.js#1: [SOCIETY] disableQuarkMysticalFlowers.js loaded
+[15:59:25] [INFO] Loaded script server_scripts:blockEvents/disableQuarkMysticalFlowers.js in 0.0 s
+[15:59:25] [INFO] Loaded script server_scripts:blockEvents/disableReseedable.js in 0.0 s
+[15:59:25] [INFO] blockEvents/disableSaltSnowball.js#1: [SOCIETY] disableSaltSnowball.js loaded
+[15:59:25] [INFO] Loaded script server_scripts:blockEvents/disableSaltSnowball.js in 0.0 s
+[15:59:25] [INFO] blockEvents/disableSpawner.js#1: [SOCIETY] disableSpawner.js loaded
+[15:59:25] [INFO] Loaded script server_scripts:blockEvents/disableSpawner.js in 0.0 s
+[15:59:25] [INFO] blockEvents/enrichedBonemeal.js#1: [SOCIETY] enrichedBonemeal.js loaded
+[15:59:25] [INFO] Loaded script server_scripts:blockEvents/enrichedBonemeal.js in 0.001 s
+[15:59:25] [INFO] blockEvents/fairyDust.js#1: [SOCIETY] checkArtisanMachines.js loaded
+[15:59:25] [INFO] Loaded script server_scripts:blockEvents/fairyDust.js in 0.0 s
+[15:59:25] [INFO] blockEvents/fertilizerDigging.js#1: [SOCIETY] neptuniumHoe.js loaded
+[15:59:25] [INFO] Loaded script server_scripts:blockEvents/fertilizerDigging.js in 0.0 s
+[15:59:25] [INFO] Loaded script server_scripts:blockEvents/fishPondQuestManagerEvents.js in 0.001 s
+[15:59:25] [INFO] blockEvents/frozenGeode.js#1: [SOCIETY] frozenGeode.js loaded
+[15:59:25] [INFO] Loaded script server_scripts:blockEvents/frozenGeode.js in 0.0 s
+[15:59:25] [INFO] blockEvents/fruitInstaBreak.js#1: [SOCIETY] fruitInstaBreak.js loaded
+[15:59:25] [INFO] Loaded script server_scripts:blockEvents/fruitInstaBreak.js in 0.0 s
+[15:59:25] [INFO] blockEvents/grapevinePot.js#1: [SOCIETY] grapevinePot.js loaded
+[15:59:25] [INFO] Loaded script server_scripts:blockEvents/grapevinePot.js in 0.0 s
+[15:59:25] [INFO] Loaded script server_scripts:blockEvents/harvestExperience.js in 0.0 s
+[15:59:25] [INFO] blockEvents/havestHandling.js#1: [SOCIETY] harvestHandling.js loaded
+[15:59:25] [INFO] Loaded script server_scripts:blockEvents/havestHandling.js in 0.001 s
+[15:59:25] [INFO] blockEvents/hoeAoe.js#1: [SOCIETY] hoeAoe.js loaded
+[15:59:25] [INFO] Loaded script server_scripts:blockEvents/hoeAoe.js in 0.001 s
+[15:59:25] [INFO] blockEvents/letsDoBroken.js#1: [SOCIETY] letsDoBroken.js loaded
+[15:59:25] [INFO] Loaded script server_scripts:blockEvents/letsDoBroken.js in 0.0 s
+[15:59:25] [INFO] blockEvents/magnifyingGlass.js#1: [SOCIETY] magnifyingGlass.js loaded
+[15:59:25] [INFO] Loaded script server_scripts:blockEvents/magnifyingGlass.js in 0.0 s
+[15:59:25] [INFO] blockEvents/multiBlockHandlers.js#1: [SOCIETY] multiBlockHandlers.js loaded
+[15:59:25] [INFO] Loaded script server_scripts:blockEvents/multiBlockHandlers.js in 0.0 s
+[15:59:25] [INFO] blockEvents/neptuniumHoe.js#1: [SOCIETY] neptuniumHoe.js loaded
+[15:59:25] [INFO] Loaded script server_scripts:blockEvents/neptuniumHoe.js in 0.0 s
+[15:59:25] [INFO] blockEvents/openShippingBin.js#1: [SOCIETY] openShippingBin.js loaded
+[15:59:25] [INFO] Loaded script server_scripts:blockEvents/openShippingBin.js in 0.0 s
+[15:59:25] [INFO] blockEvents/pamsTreeLoot.js#1: [SOCIETY] pamsTreeLoot.js loaded
+[15:59:25] [INFO] Loaded script server_scripts:blockEvents/pamsTreeLoot.js in 0.0 s
+[15:59:25] [INFO] blockEvents/pickupDrink.js#1: [SOCIETY] pickupDrink.js loaded
+[15:59:25] [INFO] Loaded script server_scripts:blockEvents/pickupDrink.js in 0.002 s
+[15:59:25] [INFO] blockEvents/placeNbtMachine.js#1: [SOCIETY] placeNbtMachine.js loaded
+[15:59:25] [INFO] Loaded script server_scripts:blockEvents/placeNbtMachine.js in 0.0 s
+[15:59:25] [INFO] blockEvents/plantGarlicSeed.js#1: [SOCIETY] neptuniumHoe.js loaded
+[15:59:25] [INFO] Loaded script server_scripts:blockEvents/plantGarlicSeed.js in 0.0 s
+[15:59:25] [INFO] blockEvents/plushieMechanics.js#1: [SOCIETY] plushieMechanics.js loaded
+[15:59:25] [INFO] Loaded script server_scripts:blockEvents/plushieMechanics.js in 0.001 s
+[15:59:25] [INFO] blockEvents/preventChestVoid.js#1: [SOCIETY] preventChestVoid.js loaded
+[15:59:25] [INFO] Loaded script server_scripts:blockEvents/preventChestVoid.js in 0.0 s
+[15:59:25] [INFO] blockEvents/ribbitHutMechanics.js#1: [SOCIETY] placeNbtMachine.js loaded
+[15:59:25] [INFO] Loaded script server_scripts:blockEvents/ribbitHutMechanics.js in 0.001 s
+[15:59:25] [INFO] blockEvents/seedMessage.js#1: [SOCIETY] seedMessage.js loaded
+[15:59:25] [INFO] Loaded script server_scripts:blockEvents/seedMessage.js in 0.001 s
+[15:59:25] [INFO] blockEvents/shippingBinRenaming.js#1: [SOCIETY] shippingBinNamed.js loaded
+[15:59:25] [INFO] Loaded script server_scripts:blockEvents/shippingBinRenaming.js in 0.0 s
+[15:59:25] [INFO] blockEvents/skullCavernBroken.js#1: [SOCIETY] skullCavernBroken.js loaded
+[15:59:25] [INFO] Loaded script server_scripts:blockEvents/skullCavernBroken.js in 0.001 s
+[15:59:25] [INFO] blockEvents/skullCavernPlace.js#1: [SOCIETY] skullCavernPlace.js loaded
+[15:59:25] [INFO] Loaded script server_scripts:blockEvents/skullCavernPlace.js in 0.0 s
+[15:59:25] [INFO] blockEvents/skullTeleporter.js#1: [SOCIETY] skullTeleporter.js loaded
+[15:59:25] [INFO] Loaded script server_scripts:blockEvents/skullTeleporter.js in 0.0 s
+[15:59:25] [INFO] blockEvents/slimeContainProtect.js#1: [SOCIETY] slimeContainProtect.js loaded
+[15:59:25] [INFO] Loaded script server_scripts:blockEvents/slimeContainProtect.js in 0.0 s
+[15:59:25] [INFO] blockEvents/slotMachine.js#1: [SOCIETY] slotMachine.js loaded
+[15:59:25] [INFO] Loaded script server_scripts:blockEvents/slotMachine.js in 0.0 s
+[15:59:25] [INFO] blockEvents/treechopSkill.js#1: [SOCIETY] treechopSkill.js loaded
+[15:59:25] [INFO] Loaded script server_scripts:blockEvents/treechopSkill.js in 0.0 s
+[15:59:25] [INFO] blockEvents/updateBountyBoard.js#1: [SOCIETY] updateBountyBoard.js loaded
+[15:59:25] [INFO] Loaded script server_scripts:blockEvents/updateBountyBoard.js in 0.0 s
+[15:59:25] [INFO] blockEvents/upgradeSparkstoneMachines.js#1: [SOCIETY] upgradeSparkstoneMachines.js loaded
+[15:59:25] [INFO] Loaded script server_scripts:blockEvents/upgradeSparkstoneMachines.js in 0.0 s
+[15:59:25] [INFO] Loaded script server_scripts:datagen/generateBounties.js in 0.0 s
+[15:59:25] [INFO] Loaded script server_scripts:datagen/generateBuildingShop.js in 0.0 s
+[15:59:25] [INFO] Loaded script server_scripts:datagen/generateCafeDishes.js in 0.0 s
+[15:59:25] [INFO] Loaded script server_scripts:datagen/generateCatalogShops.js in 0.0 s
+[15:59:25] [INFO] Loaded script server_scripts:datagen/generateFurnitureTags.js in 0.0 s
+[15:59:25] [INFO] Loaded script server_scripts:datagen/generateLang.js in 0.0 s
+[15:59:25] [INFO] Loaded script server_scripts:datagen/generateNpcDialog.js in 0.001 s
+[15:59:25] [INFO] Loaded script server_scripts:datagen/generateRibbitHut.js in 0.0 s
+[15:59:25] [INFO] Loaded script server_scripts:datagen/generateTips.js in 0.0 s
+[15:59:25] [INFO] Loaded script server_scripts:datagen/generateWallpapers.js in 0.0 s
+[15:59:25] [INFO] Loaded script server_scripts:datagen/npcs/banker.js in 0.001 s
+[15:59:25] [INFO] Loaded script server_scripts:datagen/npcs/blacksmith.js in 0.0 s
+[15:59:25] [INFO] Loaded script server_scripts:datagen/npcs/carpenter.js in 0.0 s
+[15:59:25] [INFO] Loaded script server_scripts:datagen/npcs/fisher.js in 0.0 s
+[15:59:25] [INFO] Loaded script server_scripts:datagen/npcs/goddess.js in 0.0 s
+[15:59:25] [INFO] Loaded script server_scripts:datagen/npcs/librarian.js in 0.001 s
+[15:59:25] [INFO] Loaded script server_scripts:datagen/npcs/market.js in 0.001 s
+[15:59:25] [INFO] Loaded script server_scripts:datagen/npcs/misc.js in 0.0 s
+[15:59:25] [INFO] Loaded script server_scripts:datagen/npcs/shepherd.js in 0.0 s
+[15:59:25] [INFO] Loaded script server_scripts:datagen/npcs/trader.js in 0.0 s
+[15:59:25] [INFO] Loaded script server_scripts:datagen/npcs/wiseOak.js in 0.002 s
+[15:59:25] [INFO] Loaded script server_scripts:datagen/npcs/witch.js in 0.0 s
+[15:59:25] [INFO] Loaded script server_scripts:datagen/wikigen/generateLongwingBreedingTable.js in 0.0 s
+[15:59:25] [INFO] Loaded script server_scripts:datagen/wikigen/generateLongwingValueTable.js in 0.0 s
+[15:59:25] [INFO] Loaded script server_scripts:datagen/wikigen/generateShopTable.js in 0.0 s
+[15:59:25] [INFO] entities/animalBase.js#1: [SOCIETY] animalBase.js loaded
+[15:59:25] [INFO] Loaded script server_scripts:entities/animalBase.js in 0.003 s
+[15:59:25] [INFO] entities/animalBreeding.js#1: [SOCIETY] animalBreeding.js loaded
+[15:59:25] [INFO] Loaded script server_scripts:entities/animalBreeding.js in 0.0 s
+[15:59:25] [INFO] entities/animalMoodScanner.js#1: [SOCIETY] animalMoodScanner.js loaded
+[15:59:25] [INFO] Loaded script server_scripts:entities/animalMoodScanner.js in 0.0 s
+[15:59:25] [INFO] entities/animalName.js#1: [SOCIETY] animalName.js loaded
+[15:59:25] [INFO] Loaded script server_scripts:entities/animalName.js in 0.0 s
+[15:59:25] [INFO] entities/animalPet.js#1: [SOCIETY] animalPet.js loaded
+[15:59:25] [INFO] Loaded script server_scripts:entities/animalPet.js in 0.001 s
+[15:59:25] [INFO] Loaded script server_scripts:entities/animalSpecial.js in 0.0 s
+[15:59:25] [INFO] entities/animalSunlitCrystal.js#1: [SOCIETY] animalSunlitCrystal.js loaded
+[15:59:25] [INFO] Loaded script server_scripts:entities/animalSunlitCrystal.js in 0.0 s
+[15:59:25] [INFO] entities/animalTweaks.js#1: [SOCIETY] animalTweaks.js loaded
+[15:59:25] [INFO] Loaded script server_scripts:entities/animalTweaks.js in 0.001 s
+[15:59:25] [INFO] entities/cancelEntityInteraction.js#1: [SOCIETY] cancelEntityInteraction.js loaded
+[15:59:25] [INFO] Loaded script server_scripts:entities/cancelEntityInteraction.js in 0.0 s
+[15:59:25] [INFO] entities/carKey.js#1: [SOCIETY] carKey.js loaded
+[15:59:25] [INFO] Loaded script server_scripts:entities/carKey.js in 0.001 s
+[15:59:25] [INFO] entities/checkAnimal.js#1: [SOCIETY] checkAnimal.js loaded
+[15:59:25] [INFO] Loaded script server_scripts:entities/checkAnimal.js in 0.0 s
+[15:59:25] [INFO] entities/disableEggs.js#1: [SOCIETY] disableEggs.js loaded
+[15:59:25] [INFO] Loaded script server_scripts:entities/disableEggs.js in 0.0 s
+[15:59:25] [INFO] Loaded script server_scripts:entities/globalAnimalVariables.js in 0.0 s
+[15:59:25] [INFO] entities/hamsterBite.js#1: [SOCIETY] hamsterBite.js loaded
+[15:59:25] [INFO] Loaded script server_scripts:entities/hamsterBite.js in 0.0 s
+[15:59:25] [INFO] Loaded script server_scripts:entities/handleHeretic.js in 0.0 s
+[15:59:25] [INFO] Loaded script server_scripts:entities/handleSacrifice.js in 0.0 s
+[15:59:25] [INFO] entities/lassoFilter.js#1: [SOCIETY] lassoFilter.js loaded
+[15:59:25] [INFO] Loaded script server_scripts:entities/lassoFilter.js in 0.0 s
+[15:59:25] [INFO] entities/moonStatueDamage.js#1: [SOCIETY] moonStatueDamage.js loaded
+[15:59:25] [INFO] Loaded script server_scripts:entities/moonStatueDamage.js in 0.0 s
+[15:59:25] [INFO] Loaded script server_scripts:entities/mooshroomDamage.js in 0.0 s
+[15:59:25] [INFO] Loaded script server_scripts:entities/refreshVillagers.js in 0.0 s
+[15:59:25] [INFO] Loaded script server_scripts:entities/skeletonHorseNuke.js in 0.0 s
+[15:59:25] [INFO] entities/slimeTicket.js#1: [SOCIETY] slimeTicket.js loaded
+[15:59:25] [INFO] Loaded script server_scripts:entities/slimeTicket.js in 0.0 s
+[15:59:25] [INFO] entities/spawnBoomcat.js#1: [SOCIETY] spawnBoomcat.js loaded
+[15:59:25] [INFO] Loaded script server_scripts:entities/spawnBoomcat.js in 0.0 s
+[15:59:25] [INFO] entities/steadfastSkill.js#1: [SOCIETY] steadFastSkill.js loaded
+[15:59:25] [INFO] Loaded script server_scripts:entities/steadfastSkill.js in 0.001 s
+[15:59:25] [INFO] entities/wickedMaskFilter.js#1: [SOCIETY] wickedMaskFilter.js loaded
+[15:59:25] [INFO] Loaded script server_scripts:entities/wickedMaskFilter.js in 0.0 s
+[15:59:25] [INFO] globalServer.js#1: [SOCIETY] globalServer.js loaded
+[15:59:25] [INFO] Loaded script server_scripts:globalServer.js in 0.002 s
+[15:59:25] [INFO] handleDebt.js#1: [SOCIETY] handleDebt.js loaded
+[15:59:25] [INFO] Loaded script server_scripts:handleDebt.js in 0.0 s
+[15:59:25] [INFO] itemEvents/cancelItemEvents.js#1: [SOCIETY] cancelItemEvents.js loaded
+[15:59:25] [INFO] Loaded script server_scripts:itemEvents/cancelItemEvents.js in 0.001 s
+[15:59:25] [INFO] itemEvents/cornucopia.js#1: [SOCIETY] cornucopia.js loaded
+[15:59:25] [INFO] Loaded script server_scripts:itemEvents/cornucopia.js in 0.0 s
+[15:59:25] [INFO] itemEvents/dragontoothAxe.js#1: [SOCIETY] dragontoothAxe.js loaded
+[15:59:25] [INFO] itemEvents/dragontoothAxe.js#3: Loaded Java class 'net.minecraft.world.phys.Vec3'
+[15:59:25] [INFO] Loaded script server_scripts:itemEvents/dragontoothAxe.js in 0.0 s
+[15:59:25] [INFO] itemEvents/experienceBooks.js#1: [SOCIETY] experienceBooks.js loaded
+[15:59:25] [INFO] Loaded script server_scripts:itemEvents/experienceBooks.js in 0.0 s
+[15:59:25] [INFO] itemEvents/eyeOfEnderMessage.js#1: [SOCIETY] eyeOfEnderMessage.js loaded
+[15:59:25] [INFO] Loaded script server_scripts:itemEvents/eyeOfEnderMessage.js in 0.0 s
+[15:59:25] [INFO] itemEvents/fishRadar.js#1: [SOCIETY] fishRadar.js loaded
+[15:59:25] [INFO] Loaded script server_scripts:itemEvents/fishRadar.js in 0.0 s
+[15:59:25] [INFO] itemEvents/geodeCracking.js#1: [SOCIETY] geodeCracking.js loaded
+[15:59:25] [INFO] Loaded script server_scripts:itemEvents/geodeCracking.js in 0.0 s
+[15:59:25] [INFO] itemEvents/lootOpening.js#1: [SOCIETY] lootOpening.js loaded
+[15:59:25] [INFO] Loaded script server_scripts:itemEvents/lootOpening.js in 0.002 s
+[15:59:25] [INFO] itemEvents/magicRope.js#1: [SOCIETY] magicRope.js loaded
+[15:59:25] [INFO] Loaded script server_scripts:itemEvents/magicRope.js in 0.0 s
+[15:59:25] [INFO] itemEvents/overflowToken.js#1: [SOCIETY] overflowToken.js loaded
+[15:59:25] [INFO] Loaded script server_scripts:itemEvents/overflowToken.js in 0.001 s
+[15:59:25] [INFO] itemEvents/pawpawRoad.js#1: [SOCIETY] pawpawRoad.js loaded
+[15:59:25] [INFO] Loaded script server_scripts:itemEvents/pawpawRoad.js in 0.0 s
+[15:59:25] [INFO] itemEvents/pigRacing.js#1: [SOCIETY] pigRacing.js loaded
+[15:59:25] [INFO] Loaded script server_scripts:itemEvents/pigRacing.js in 0.003 s
+[15:59:25] [INFO] itemEvents/plushieCapsule.js#1: [SOCIETY] plushieCapsule.js loaded
+[15:59:25] [INFO] Loaded script server_scripts:itemEvents/plushieCapsule.js in 0.0 s
+[15:59:25] [INFO] itemEvents/plushieDebug.js#1: [SOCIETY] plushieDebug.js loaded
+[15:59:25] [INFO] Loaded script server_scripts:itemEvents/plushieDebug.js in 0.0 s
+[15:59:25] [INFO] itemEvents/regretCrystals.js#1: [SOCIETY] regretCrystals.js loaded
+[15:59:25] [INFO] Loaded script server_scripts:itemEvents/regretCrystals.js in 0.0 s
+[15:59:25] [INFO] itemEvents/skillBooks.js#1: [SOCIETY] skillBooks.js loaded
+[15:59:25] [INFO] Loaded script server_scripts:itemEvents/skillBooks.js in 0.0 s
+[15:59:25] [INFO] itemEvents/smokeTubasmokeStick.js#1: [SOCIETY] smokeTubasmokeStick.js loaded
+[15:59:25] [INFO] Loaded script server_scripts:itemEvents/smokeTubasmokeStick.js in 0.002 s
+[15:59:25] [INFO] Loaded script server_scripts:itemEvents/tomsBackwardsCompat.js in 0.0 s
+[15:59:25] [INFO] itemEvents/totems.js#1: [SOCIETY] totems.js loaded
+[15:59:25] [INFO] Loaded script server_scripts:itemEvents/totems.js in 0.0 s
+[15:59:25] [INFO] itemEvents/validateFishPondQuests.js#1: [SOCIETY] validateFishPondQuests.js loaded
+[15:59:25] [INFO] Loaded script server_scripts:itemEvents/validateFishPondQuests.js in 0.001 s
+[15:59:25] [INFO] loot/adventurerLoot.js#1: [SOCIETY] adventurerLoot.js loaded
+[15:59:25] [INFO] Loaded script server_scripts:loot/adventurerLoot.js in 0.0 s
+[15:59:25] [INFO] loot/farmingLoot.js#1: [SOCIETY] farmingLoot.js loaded
+[15:59:25] [INFO] Loaded script server_scripts:loot/farmingLoot.js in 0.001 s
+[15:59:25] [INFO] loot/fishingLoot.js#1: [SOCIETY] fishingLoot.js loaded
+[15:59:25] [INFO] Loaded script server_scripts:loot/fishingLoot.js in 0.0 s
+[15:59:25] [INFO] loot/generalLoot.js#1: [SOCIETY] generalLoot.js loaded
+[15:59:25] [INFO] Loaded script server_scripts:loot/generalLoot.js in 0.002 s
+[15:59:25] [INFO] Loaded script server_scripts:loot/husbandryLoot.js in 0.0 s
+[15:59:25] [INFO] loot/miningLoot.js#1: [SOCIETY] miningLoot.js loaded
+[15:59:25] [INFO] Loaded script server_scripts:loot/miningLoot.js in 0.001 s
+[15:59:25] [INFO] loot/seasonfish.js#1: [SOCIETY] seasonFish.js loaded
+[15:59:25] [INFO] Loaded script server_scripts:loot/seasonfish.js in 0.0 s
+[15:59:25] [INFO] npcs/gnomeInteraction.js#1: [SOCIETY] gnomeInteraction.js loaded
+[15:59:25] [INFO] Loaded script server_scripts:npcs/gnomeInteraction.js in 0.0 s
+[15:59:25] [INFO] npcs/npcInteraction.js#1: [SOCIETY] npcInteraction.js loaded
+[15:59:25] [INFO] Loaded script server_scripts:npcs/npcInteraction.js in 0.004 s
+[15:59:25] [INFO] npcs/npcInvite.js#1: [SOCIETY] npcInvite.js loaded
+[15:59:25] [INFO] Loaded script server_scripts:npcs/npcInvite.js in 0.0 s
+[15:59:25] [INFO] npcs/villagerHomeMechanics.js#1: [SOCIETY] villagerMechanics.js loaded
+[15:59:25] [INFO] Loaded script server_scripts:npcs/villagerHomeMechanics.js in 0.0 s
+[15:59:25] [INFO] Loaded script server_scripts:pigracingCommand.js in 0.001 s
+[15:59:25] [INFO] playerEvents/addCommandAttributesOnLogin.js#1: [SOCIETY] addCommandAttributesOnLogin.js loaded
+[15:59:25] [INFO] Loaded script server_scripts:playerEvents/addCommandAttributesOnLogin.js in 0.0 s
+[15:59:25] [INFO] Loaded script server_scripts:playerEvents/addNetherStage.js in 0.001 s
+[15:59:25] [INFO] playerEvents/addQuestbook.js#1: [SOCIETY] addQuestbook.js loaded
+[15:59:25] [INFO] Loaded script server_scripts:playerEvents/addQuestbook.js in 0.0 s
+[15:59:25] [INFO] playerEvents/chatColors.js#1: Loaded Java class 'net.minecraft.network.chat.TextColor'
+[15:59:25] [INFO] Loaded script server_scripts:playerEvents/chatColors.js in 0.002 s
+[15:59:25] [INFO] playerEvents/checkSkullCavernLogin.js#1: [SOCIETY] checkSkullCavernLogin.js loaded
+[15:59:25] [INFO] Loaded script server_scripts:playerEvents/checkSkullCavernLogin.js in 0.0 s
+[15:59:25] [INFO] playerEvents/clearEntities.js#1: [SOCIETY] clearEntities.js loaded
+[15:59:25] [INFO] Loaded script server_scripts:playerEvents/clearEntities.js in 0.0 s
+[15:59:25] [INFO] playerEvents/customGUI.js#1: [SOCIETY] coinUi.js loaded
+[15:59:25] [INFO] Loaded script server_scripts:playerEvents/customGUI.js in 0.001 s
+[15:59:25] [INFO] playerEvents/dayCounterTick.js#1: [SOCIETY] dayCounterTick.js loaded
+[15:59:25] [INFO] Loaded script server_scripts:playerEvents/dayCounterTick.js in 0.0 s
+[15:59:25] [INFO] Loaded script server_scripts:playerEvents/milkBan.js in 0.0 s
+[15:59:25] [INFO] playerEvents/registerCoinLeaderboardPlayers.js#1: [SOCIETY] registerCoinLeaderboardPlayers.js loaded
+[15:59:25] [INFO] Loaded script server_scripts:playerEvents/registerCoinLeaderboardPlayers.js in 0.0 s
+[15:59:25] [INFO] playerEvents/seasonSync.js#1: Loaded Java class 'sereneseasons.init.ModConfig'
+[15:59:25] [INFO] Loaded script server_scripts:playerEvents/seasonSync.js in 0.0 s
+[15:59:25] [INFO] playerEvents/skullCavernTick.js#1: [SOCIETY] skullCavernTick.js loaded
+[15:59:25] [INFO] Loaded script server_scripts:playerEvents/skullCavernTick.js in 0.0 s
+[15:59:25] [INFO] recipes/addBottleRecipes.js#1: [SOCIETY] addBottleRecipes.js loaded
+[15:59:25] [INFO] Loaded script server_scripts:recipes/addBottleRecipes.js in 0.0 s
+[15:59:25] [INFO] Loaded script server_scripts:recipes/addChunkroditeRecipes.js in 0.0 s
+[15:59:25] [INFO] recipes/addCompactingRecipes.js#1: [SOCIETY] addCompactingRecipes.js loaded
+[15:59:25] [INFO] Loaded script server_scripts:recipes/addCompactingRecipes.js in 0.0 s
+[15:59:25] [INFO] recipes/addCrushingRecipes.js#1: [SOCIETY] addCrushingRecipes.js loaded
+[15:59:25] [INFO] Loaded script server_scripts:recipes/addCrushingRecipes.js in 0.0 s
+[15:59:25] [INFO] recipes/addCupRecipes.js#1: [SOCIETY] addCupRecipes.js loaded
+[15:59:25] [INFO] Loaded script server_scripts:recipes/addCupRecipes.js in 0.0 s
+[15:59:25] [INFO] recipes/addFishBaits.js#1: [SOCIETY] addFishBaits.js loaded
+[15:59:25] [INFO] Loaded script server_scripts:recipes/addFishBaits.js in 0.0 s
+[15:59:25] [INFO] recipes/addGrapeJuiceRecipes.js#1: [SOCIETY] addGrapeJuiceRecipes.js loaded
+[15:59:25] [INFO] Loaded script server_scripts:recipes/addGrapeJuiceRecipes.js in 0.0 s
+[15:59:25] [INFO] recipes/addHammerRecipes.js#1: [SOCIETY] addHammerRecipes.js loaded
+[15:59:25] [INFO] Loaded script server_scripts:recipes/addHammerRecipes.js in 0.0 s
+[15:59:25] [INFO] recipes/addKineticsRecipes.js#1: [SOCIETY] addKineticsRecipes.jsloaded
+[15:59:25] [INFO] Loaded script server_scripts:recipes/addKineticsRecipes.js in 0.0 s
+[15:59:25] [INFO] recipes/addMailboxRecipes.js#1: [SOCIETY] addMailboxRecipes.js loaded
+[15:59:25] [INFO] Loaded script server_scripts:recipes/addMailboxRecipes.js in 0.001 s
+[15:59:25] [INFO] recipes/addMilkRecipes.js#1: [SOCIETY] addChunkroditeRecipes.js loaded
+[15:59:25] [INFO] Loaded script server_scripts:recipes/addMilkRecipes.js in 0.001 s
+[15:59:25] [INFO] recipes/addMillingRecipes.js#1: [SOCIETY] addMillingRecipes.js loaded
+[15:59:25] [INFO] Loaded script server_scripts:recipes/addMillingRecipes.js in 0.0 s
+[15:59:25] [INFO] recipes/addMiscRecipes.js#1: [SOCIETY] addMiscRecipes.js loaded
+[15:59:25] [INFO] Loaded script server_scripts:recipes/addMiscRecipes.js in 0.002 s
+[15:59:25] [INFO] recipes/addMissingSlabRecipes.js#1: [SOCIETY] addPlankRecipes.js loaded
+[15:59:25] [INFO] Loaded script server_scripts:recipes/addMissingSlabRecipes.js in 0.001 s
+[15:59:25] [INFO] recipes/addMixerRecipes.js#1: [SOCIETY] addMixerRecipes.js loaded
+[15:59:25] [INFO] Loaded script server_scripts:recipes/addMixerRecipes.js in 0.0 s
+[15:59:25] [INFO] recipes/addMysticalFlowerSeedRecipes.js#1: [SOCIETY] addMysticalFlowerSeedRecipes.js loaded
+[15:59:25] [INFO] Loaded script server_scripts:recipes/addMysticalFlowerSeedRecipes.js in 0.0 s
+[15:59:25] [INFO] recipes/addPicklingRecipes.js#1: [SOCIETY] addPicklingRecipes.js loaded
+[15:59:25] [INFO] Loaded script server_scripts:recipes/addPicklingRecipes.js in 0.0 s
+[15:59:25] [INFO] recipes/addPressingRecipes.js#1: [SOCIETY] addPressingRecipes.js loaded
+[15:59:25] [INFO] Loaded script server_scripts:recipes/addPressingRecipes.js in 0.0 s
+[15:59:25] [INFO] recipes/addRefurbishedWorkbenchRecipes.js#1: [SOCIETY] addRefurbishedWorkbenchRecipes.js loaded
+[15:59:25] [INFO] Loaded script server_scripts:recipes/addRefurbishedWorkbenchRecipes.js in 0.0 s
+[15:59:25] [INFO] recipes/addSewingRecipes.js#1: [SOCIETY] addSewingRecipes.js loaded
+[15:59:25] [INFO] Loaded script server_scripts:recipes/addSewingRecipes.js in 0.002 s
+[15:59:25] [INFO] Loaded script server_scripts:recipes/addShippingTrades.js in 0.0 s
+[15:59:25] [INFO] recipes/addSlimeRecipes.js#1: [SOCIETY] addSlimeRecipes.js loaded
+[15:59:25] [INFO] Loaded script server_scripts:recipes/addSlimeRecipes.js in 0.0 s
+[15:59:25] [INFO] recipes/addSpawnEggRecipes.js#1: [SOCIETY] addSpawnEggRecipes.js loaded
+[15:59:25] [INFO] Loaded script server_scripts:recipes/addSpawnEggRecipes.js in 0.0 s
+[15:59:25] [INFO] recipes/addStrippingRecipes.js#1: [SOCIETY] addStrippingRecipes.js loaded
+[15:59:25] [INFO] Loaded script server_scripts:recipes/addStrippingRecipes.js in 0.001 s
+[15:59:25] [INFO] Loaded script server_scripts:recipes/addTomsConvertRecipes.js in 0.0 s
+[15:59:25] [INFO] recipes/addToolRecipes.js#1: [SOCIETY] addToolRecipes.js loaded
+[15:59:25] [INFO] Loaded script server_scripts:recipes/addToolRecipes.js in 0.0 s
+[15:59:25] [INFO] recipes/addTrainTrackRecipes.js#1: [SOCIETY] addMailboxRecipes.js loaded
+[15:59:25] [INFO] Loaded script server_scripts:recipes/addTrainTrackRecipes.js in 0.0 s
+[15:59:25] [INFO] recipes/removeRecipes.js#1: [SOCIETY] removeRecipes.js loaded
+[15:59:25] [INFO] Loaded script server_scripts:recipes/removeRecipes.js in 0.002 s
+[15:59:25] [INFO] redWrench.js#1: [SOCIETY] redWrench.js loaded
+[15:59:25] [INFO] Loaded script server_scripts:redWrench.js in 0.0 s
+[15:59:25] [INFO] Loaded script server_scripts:removeFishingMinigame.js in 0.0 s
+[15:59:25] [INFO] serverEvents/updateCoinLeaderboard.js#1: [SOCIETY] updateCoinLeaderboard.js loaded
+[15:59:25] [INFO] Loaded script server_scripts:serverEvents/updateCoinLeaderboard.js in 0.001 s
+[15:59:25] [INFO] tags/handleBinBans.js#1: [SOCIETY] handleBinBans.js loaded
+[15:59:25] [INFO] Loaded script server_scripts:tags/handleBinBans.js in 0.001 s
+[15:59:25] [INFO] tags/handleEntityTags.js#2: [SOCIETY] handleEntityTags.js loaded
+[15:59:25] [INFO] Loaded script server_scripts:tags/handleEntityTags.js in 0.0 s
+[15:59:25] [INFO] tags/handleItemBlockFluidTags.js#2: [SOCIETY] handleItemBlockFluidTags.js loaded
+[15:59:25] [INFO] Loaded script server_scripts:tags/handleItemBlockFluidTags.js in 0.001 s
+[15:59:25] [INFO] tags/handlePathBlockTags.js#1: [SOCIETY] handlePathBlockTags.js loaded
+[15:59:25] [INFO] Loaded script server_scripts:tags/handlePathBlockTags.js in 0.0 s
+[15:59:25] [INFO] tags/handleSeasonTags.js#1: [SOCIETY] handleSeasonTags.js loaded
+[15:59:25] [INFO] Loaded script server_scripts:tags/handleSeasonTags.js in 0.001 s
+[15:59:25] [INFO] tags/handleWorldgenTags.js#2: [SOCIETY] handleWorldgenTags.js loaded
+[15:59:25] [INFO] Loaded script server_scripts:tags/handleWorldgenTags.js in 0.0 s
+[15:59:25] [INFO] Loaded script server_scripts:upgradePond.js in 0.0 s
+[15:59:25] [INFO] Loaded 189/189 KubeJS server scripts in 0.136 s with 0 errors and 0 warnings
+[15:59:25] [INFO] Scripts loaded
+[15:59:25] [INFO] Initializing recipe event...
